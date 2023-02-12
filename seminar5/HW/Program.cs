@@ -122,7 +122,7 @@ while (inWork)
                 break;
             }
 
-			case 2:
+	    case 2:
             {
                 Task_2();
                 
